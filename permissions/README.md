@@ -1,0 +1,1 @@
+Tareas de permisos sobre linux crear usarios y modificaciones
