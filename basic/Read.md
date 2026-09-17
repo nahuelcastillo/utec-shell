@@ -1,1 +1,0 @@
-El 0-current_working_directory hace que nos devuelva la ruta absoluto del directorio de trabajo actual
